@@ -1,0 +1,4 @@
+/assets
+config.yml
+node_modules
+*.log

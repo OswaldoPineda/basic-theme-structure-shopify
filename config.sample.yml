@@ -1,0 +1,15 @@
+development:
+  password: adbc
+  theme_id: "1234"
+  store: store-name.myshopify.com
+  timeout: 120s
+  ignores:
+  - themekit_ignores
+
+production:
+  password: adbc
+  theme_id: "1234"
+  store: store-name.myshopify.com
+  timeout: 120s
+  ignores:
+  - themekit_ignores
